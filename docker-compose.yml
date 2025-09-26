@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  event-system:
+    build: .
+    container_name: event-notification-system
+    ports:
+      - "8080:8080"
