@@ -27,7 +27,7 @@ A Spring Boot-based Event Notification System that manages, queues, and processe
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/event-notification-system.git
+git clone https://github.com/ayushraina123/event-notification-system.git
 cd event-notification-system
 ```
 
