@@ -29,6 +29,7 @@ A Spring Boot-based Event Notification System that manages, queues, and processe
 ```bash
 git clone https://github.com/<your-username>/event-notification-system.git
 cd event-notification-system
+```
 
 ---
 
@@ -36,6 +37,7 @@ cd event-notification-system
 
 ```bash
 mvn spring-boot:run
+```
 
 ---
 
@@ -44,12 +46,14 @@ mvn spring-boot:run
 ### Build and start containers
 ```bash
 docker-compose up --build
+```
 
 ---
 
 ### Stop containers
 ```bash
 docker-compose down
+```
 
 ---
 
@@ -71,7 +75,7 @@ Run tests using:
 
 ```bash
 mvn test
-
+```
 
 ---
 
